@@ -1,0 +1,13 @@
+body {
+    background-color: #FFFF00;
+    font-size: 80%;
+    padding: 15px;
+}
+
+h1 {
+    color: #FF0000;
+}
+
+dt {
+    text-decoration: underline;
+}
